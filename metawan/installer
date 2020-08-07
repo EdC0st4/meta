@@ -1,0 +1,10 @@
+#!/bin/bash
+chmod u+x meta; cp -r meta /usr/local/sbin
+
+clear
+
+echo -e '\e[1;32mInstallation complete :)\e[0m'
+
+sleep 3
+
+clear
